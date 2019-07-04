@@ -8,7 +8,7 @@
     "clean": "rm -rf dist && mkdir dist",
     "build-babel": "babel ./app -d ./dist",
     "build": "npm run clean && npm run build-babel",
-    "start": "npm run build && node ./dist/app.js"
+    "start": "npm run build && node ./dist/server.js"
   },
   "engines": {
     "node": "8.15.1"
