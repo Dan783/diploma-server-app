@@ -28,7 +28,7 @@
     "express-fileupload": "^1.1.2-alpha.1",
     "fs-extra": "^7.0.1",
     "jsonwebtoken": "^8.5.0",
-    "jsrsasign": "^8.0.12",
+    "jsrsasign": "^10.2.0",
     "morgan": "^1.9.1",
     "pg": "^7.8.2",
     "typeorm": "^0.2.14"
